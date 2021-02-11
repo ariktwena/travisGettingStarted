@@ -16,6 +16,7 @@ public class MyFunctionality {
    * @return 10. Maybe.
    */
   public static int giveMeTen() {
+      
     return 5;
   }
 
